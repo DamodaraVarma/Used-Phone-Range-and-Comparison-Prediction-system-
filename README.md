@@ -1,4 +1,5 @@
 Used Smartphone Price Prediction and Comparison System
+
 📌 Project Overview
 
 This project is a machine learning-based web application that predicts the resale price range of used smartphones and allows users to compare multiple devices. The system uses smartphone specifications such as brand, RAM, storage, camera, battery, display size, and device age to provide accurate and data-driven price estimations.
